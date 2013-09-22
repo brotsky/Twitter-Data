@@ -15,4 +15,4 @@ Contributors
 * Ryan Wong
 * Xiabo Zhang
 
-We are using Twitter!
+We are using Twitter and Hadoop!
